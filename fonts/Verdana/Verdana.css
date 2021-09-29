@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'Verdana';
+    font-style:normal;
+    font-weight:400;    
+    src: url('./Verdana-Regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Verdana';
+    font-style:normal;
+    font-weight:700;
+    src: url('./Verdana-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Verdana';
+    font-style:italic;
+    font-weight:700;
+    src: url('./Verdana-BoldItalic.woff') format('woff');
+}
