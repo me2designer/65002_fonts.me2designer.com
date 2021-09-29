@@ -1,2 +1,2 @@
-# fonts
-fonts.me2designer.com
+# font파일 형상관리
+65002_fonts.me2designer.com
