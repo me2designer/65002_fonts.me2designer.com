@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'IropkeBatang';
+    font-style:normal;
+    font-weight:400;
+    src: url('./IropkeBatang.eot');
+    src: url('./IropkeBatang.eot?#iefix') format('embedded-opentype'),
+         url('./IropkeBatang.woff2') format('woff2'),
+         url('./IropkeBatang.woff') format('woff'),
+		 url('./IropkeBatang.ttf') format('truetype');
+		 /* url('./IropkeBatang.svg#IropkeBatang') format('svg'); */
+    src: local(※), url('./IropkeBatang.woff') format('woff');
+}
+

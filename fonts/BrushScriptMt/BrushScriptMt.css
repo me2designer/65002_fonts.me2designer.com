@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'BrushScriptMt';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./BrushScriptMt-Regular.woff') format('woff');
+  src: local(¡Ø), url('./BrushScriptMt-Regular.woff') format('woff');
+}

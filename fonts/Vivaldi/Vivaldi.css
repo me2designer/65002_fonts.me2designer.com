@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'Vivaldi';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./Vivaldi-Regular.woff') format('woff');
+}
+          

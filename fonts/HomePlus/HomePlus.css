@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'HomePlus';
+    font-style:normal;
+    font-weight:300;
+    src: url('./HomePlus-Light.eot');
+    src: url('./HomePlus-Light.eot?#iefix') format('embedded-opentype'),
+         url('./HomePlus-Light.woff2') format('woff2'),
+         url('./HomePlus-Light.woff') format('woff'),
+		 url('./HomePlus-Light.ttf') format('truetype'),
+		 url('./HomePlus-Light.svg#HomePlus') format('svg');
+    src: local(※), url('./HomePlus-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HomePlus';
+    font-style:normal;
+    font-weight:400;
+    src: url('./HomePlus-Regular.eot');
+    src: url('./HomePlus-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./HomePlus-Regular.woff2') format('woff2'),
+         url('./HomePlus-Regular.woff') format('woff'),
+		 url('./HomePlus-Regular.ttf') format('truetype'),
+		 url('./HomePlus-Regular.svg#HomePlus') format('svg');
+    src: local(※), url('./HomePlus-Regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'HomePlus';
+    font-style:normal;
+    font-weight:700;
+    src: url('./HomePlus-Bold.eot');
+    src: url('./HomePlus-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./HomePlus-Bold.woff2') format('woff2'),
+         url('./HomePlus-Bold.woff') format('woff'),
+		 url('./HomePlus-Bold.ttf') format('truetype'),
+		 url('./HomePlus-Bold.svg#HomePlus') format('svg');
+    src: local(※), url('./HomePlus-Bold.woff') format('woff');
+}

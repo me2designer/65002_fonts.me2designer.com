@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'KoPubWorldDotum';
+    font-style:normal;
+    font-weight:300;
+    src: url('./KoPubWorldDotum-Light.eot');
+    src: url('./KoPubWorldDotum-Light.eot?#iefix') format('embedded-opentype'),
+         url('./KoPubWorldDotum-Light.woff2') format('woff2'),
+         url('./KoPubWorldDotum-Light.woff') format('woff'),
+		 url('./KoPubWorldDotum-Light.ttf') format('truetype');
+		 /* url('./KoPubWorldDotum-Light.svg#KoPubWorldDotum') format('svg'); */
+    src: local(※), url('./KoPubWorldDotum-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'KoPubWorldDotum';
+    font-style:normal;
+    font-weight:400;
+    src: url('./KoPubWorldDotum-Medium.eot');
+    src: url('./KoPubWorldDotum-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./KoPubWorldDotum-Medium.woff2') format('woff2'),
+         url('./KoPubWorldDotum-Medium.woff') format('woff'),
+		 url('./KoPubWorldDotum-Medium.ttf') format('truetype');
+		 /* url('./KoPubWorldDotum-Medium.svg#KoPubWorldDotum') format('svg'); */
+    src: local(※), url('./KoPubWorldDotum-Medium.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'KoPubWorldDotum';
+    font-style:normal;
+    font-weight:700;
+    src: url('./KoPubWorldDotum-Bold.eot');
+    src: url('./KoPubWorldDotum-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./KoPubWorldDotum-Bold.woff2') format('woff2'),
+         url('./KoPubWorldDotum-Bold.woff') format('woff'),
+		 url('./KoPubWorldDotum-Bold.ttf') format('truetype');
+		 /* url('./KoPubWorldDotum-Bold.svg#KoPubWorldDotum') format('svg'); */
+    src: local(※), url('./KoPubWorldDotum-Bold.woff') format('woff');
+}

@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:100;
+    src: url('./SCDream1.eot');
+    src: url('./SCDream1.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream1.woff2') format('woff2'),
+         url('./SCDream1.woff') format('woff'),
+		 url('./SCDream1.ttf') format('truetype'),
+		 url('./SCDream1.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream1.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:200;
+    src: url('./SCDream2.eot');
+    src: url('./SCDream2.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream2.woff2') format('woff2'),
+         url('./SCDream2.woff') format('woff'),
+		 url('./SCDream2.ttf') format('truetype'),
+		 url('./SCDream2.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream2.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:300;
+    src: url('./SCDream3.eot');
+    src: url('./SCDream3.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream3.woff2') format('woff2'),
+         url('./SCDream3.woff') format('woff'),
+		 url('./SCDream3.ttf') format('truetype'),
+		 url('./SCDream3.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream3.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:400;
+    src: url('./SCDream4.eot');
+    src: url('./SCDream4.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream4.woff2') format('woff2'),
+         url('./SCDream4.woff') format('woff'),
+		 url('./SCDream4.ttf') format('truetype'),
+		 url('./SCDream4.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream4.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:500;
+    src: url('./SCDream5.eot');
+    src: url('./SCDream5.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream5.woff2') format('woff2'),
+         url('./SCDream5.woff') format('woff'),
+		 url('./SCDream5.ttf') format('truetype'),
+		 url('./SCDream5.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream5.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:600;
+    src: url('./SCDream6.eot');
+    src: url('./SCDream6.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream6.woff2') format('woff2'),
+         url('./SCDream6.woff') format('woff'),
+		 url('./SCDream6.ttf') format('truetype'),
+		 url('./SCDream6.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream6.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:700;
+    src: url('./SCDream7.eot');
+    src: url('./SCDream7.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream7.woff2') format('woff2'),
+         url('./SCDream7.woff') format('woff'),
+		 url('./SCDream7.ttf') format('truetype'),
+		 url('./SCDream7.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream7.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:800;
+    src: url('./SCDream8.eot');
+    src: url('./SCDream8.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream8.woff2') format('woff2'),
+         url('./SCDream8.woff') format('woff'),
+		 url('./SCDream8.ttf') format('truetype'),
+		 url('./SCDream8.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream8.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style:normal;
+    font-weight:900;
+    src: url('./SCDream9.eot');
+    src: url('./SCDream9.eot?#iefix') format('embedded-opentype'),
+         url('./SCDream9.woff2') format('woff2'),
+         url('./SCDream9.woff') format('woff'),
+		 url('./SCDream9.ttf') format('truetype'),
+		 url('./SCDream9.svg#SCDream') format('svg');
+    src: local(※), url('./SCDream9.woff') format('woff');
+}
+
+
+
+

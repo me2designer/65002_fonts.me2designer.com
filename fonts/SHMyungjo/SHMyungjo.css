@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'SHMyungjo';
+    font-style:normal;
+    font-weight:100;
+    src: url('./SHMyungjo110.woff') format('woff'),
+         url('./SHMyungjo110.otf') format('opentype');
+    
+}
+
+@font-face {
+    font-family: 'SHMyungjo';
+    font-style:normal;
+    font-weight:400;
+    src: url('./SHMyungjo140.woff') format('woff'),
+         url('./SHMyungjo140.otf') format('opentype');
+}

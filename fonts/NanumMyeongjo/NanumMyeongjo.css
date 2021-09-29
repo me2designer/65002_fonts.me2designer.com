@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style:normal;
+    font-weight:400;
+    src: url('./NanumMyeongjo-Regular.eot');
+    src: url('./NanumMyeongjo-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./NanumMyeongjo-Regular.woff') format('woff');
+    src: local(※), url('./NanumMyeongjo-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style:normal;
+    font-weight:700;
+    src: url('./NanumMyeongjo-Bold.eot');
+    src: url('./NanumMyeongjo-Bold.eot?#iefix') format('embedded-opentype'),         
+         url('./NanumMyeongjo-Bold.woff') format('woff');
+    src: local(※), url('./NanumMyeongjo-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style:normal;
+    font-weight:800;
+    src: url('./NanumMyeongjo-ExtraBold.eot');
+    src: url('./NanumMyeongjo-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('./NanumMyeongjo-ExtraBold.woff') format('woff');
+    src: local(※), url('./NanumMyeongjo-ExtraBold.woff') format('woff');
+}
+

@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'InkLipquid';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./InkLipquid-Regular.woff') format('woff');
+}
+          

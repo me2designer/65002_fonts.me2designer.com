@@ -1,0 +1,37 @@
+
+#wrap {visibility: visible; opacity: 1;}
+input::placeholder {font-size: 1rem;}
+input::-webkit-input-placeholder {font-size: 1rem;}
+input:-ms-input-placeholder {font-size: 1rem;}
+#wrap input,
+#wrap select {border-radius: 0;}
+#wrap .top {overflow: hidden; padding: 30px 0; height: 105px;}
+#wrap .top>* {height: 100%; border-radius: 0;}
+#wrap .top .color {float: left; width: 160px;}
+#wrap .top .color input {width: 100%; height: 100%; text-align: center; border: 1px solid #ddd;}
+#wrap .top .family {float: left; margin-left: 30px; width: 160px; height: 100%; padding: 0 5px; text-align: center; border: 1px solid #ddd;}
+#wrap .top .size {float: left; margin-left: 30px;}
+#wrap .top .size input {float: left; width: 50px; height: 100%; text-indent: 10px; text-align: center; border: 1px solid #ddd; border-right: 0;}
+#wrap .top .size select {float: left; width: 120px; height: 100%; text-indent: 10px; text-align: center; border: 1px solid #ddd;}
+#wrap .top .weight {float: left; margin-left: 30px; width: 160px; height: 100%; padding: 0 5px; text-align: center; border: 1px solid #ddd;}
+#wrap .top .style {float: left; margin-left: 30px; width: 160px; height: 100%; padding: 0 5px; text-align: center; border: 1px solid #ddd;}
+#wrap .top .spacing {float: left; margin-left: 30px;}
+#wrap .top .spacing::after {content: "em";}
+#wrap .top .spacing input {display: inline-block; width: 120px; height: 100%; text-indent: 10px; text-align: center; border: 1px solid #ddd;}
+#wrap .contents {position: relative; height: 400px;}
+#wrap .contents canvas {position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: #151533;}
+#wrap .contents textarea {position: relative; z-index: 1; display: block; padding: 10px; width: 100%; height: 100%; border: 1px solid #ddd; color: #fff; font-family: Dotum; font-size: 16px; font-weight: 400; font-style: normal; letter-spacing: 0em;}
+#wrap .tail {overflow: hidden; margin-top: 20px;}
+#wrap .tail button {float: right; width: 200px; height: 46px; color: #fff; font-size: 20px; border-radius: 6px; background-color: green;}
+
+#wrap[data-target-device=mo] {font-size: 4vw;}
+#wrap[data-target-device=mo] .inner {padding: 2vw;}
+#wrap[data-target-device=mo] .top {height: auto;}
+#wrap[data-target-device=mo] .top .color {margin: 0 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .family {margin: 2vw 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .size {margin: 2vw 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .size>* {width: 50%;}
+#wrap[data-target-device=mo] .top .weight {margin: 2vw 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .style {margin: 2vw 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .spacing {margin: 2vw 0 0 0; width: 100%; height: 12vw;}
+#wrap[data-target-device=mo] .top .spacing input {width: 90%;}

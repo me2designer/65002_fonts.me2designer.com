@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'MyriadPro';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./MyriadPro-Regular.woff') format('woff');
+}

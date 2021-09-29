@@ -1,0 +1,199 @@
+[
+    {
+        "name" : "BinggraeⅡ",
+        "path" : "/fonts/BinggraeⅡ/BinggraeⅡ.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400", "700"]
+        }
+    },{
+        "name" : "BrushScriptMt",
+        "path" : "/fonts/BrushScriptMt/BrushScriptMt.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "CenturyGothic",
+        "path" : "/fonts/CenturyGothic/CenturyGothic.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400", "700"]
+        }
+    },{
+        "name" : "Godo",
+        "path" : "/fonts/Godo/Godo.css",
+        "weights" : {
+            "default" : "500",
+            "list" : ["500", "700"]
+        }
+    },{
+        "name" : "HGGGothicssi",
+        "path" : "/fonts/HGGGothicssi/HGGGothicssi.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "200", "400", "600", "800", "900"]
+        }
+    },{
+        "name" : "HomePlus",
+        "path" : "/fonts/HomePlus/HomePlus.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "700"]
+        }
+    },{
+        "name" : "InkLipquid",
+        "path" : "/fonts/InkLipquid/InkLipquid.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "IropkeBatang",
+        "path" : "/fonts/IropkeBatang/IropkeBatang.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "Jalnan",
+        "path" : "/fonts/Jalnan/Jalnan.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "KoPubWorldDotum",
+        "path" : "/fonts/KoPubWorldDotum/KoPubWorldDotum.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "700"]
+        }
+    },{
+        "name" : "KoPubWorldBatang",
+        "path" : "/fonts/KoPubWorldBatang/KoPubWorldBatang.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "700"]
+        }
+    },{
+        "name" : "Merriweather",
+        "path" : "/fonts/Merriweather/Merriweather.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "700", "800"]
+        }
+    },{
+        "name" : "MerriweatherSans",
+        "path" : "/fonts/MerriweatherSans/MerriweatherSans.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "700", "800"]
+        }
+    },{
+	"name" : "MongolianBait",
+        "path" : "/fonts/MongolianBait/MongolianBait.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "MyriadPro",
+        "path" : "/fonts/MyriadPro/MyriadPro.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "NanumBarunGothic",
+        "path" : "/fonts/NanumBarunGothic/NanumBarunGothic.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["200", "300", "400", "700"]
+        }
+    },{
+        "name" : "NanumGothic",
+        "path" : "/fonts/NanumGothic/NanumGothic.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "200", "300", "400", "500"]
+        }
+    },{
+        "name" : "NanumMyeongjo",
+        "path" : "/fonts/NanumMyeongjo/NanumMyeongjo.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400", "700", "900"]
+        }
+    },{
+        "name" : "NanumPen",
+        "path" : "/fonts/NanumPen/NanumPen.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "NanumSquare",
+        "path" : "/fonts/NanumSquare/NanumSquare.css",
+        "weights" : {
+            "default" : "500",
+            "list" : ["300", "500", "700", "900"]
+        }
+    },{
+        "name" : "NotoSansKR",
+        "path" : "/fonts/NotoSansKR/NotoSansKR.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "300", "400", "500", "700", "900"]
+        }
+    },{
+        "name" : "NotoSerifKR",
+        "path" : "/fonts/NotoSerifKR/NotoSerifKR.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "300", "400", "500", "700", "900"]
+        }
+    },{
+        "name" : "OpenSans",
+        "path" : "/fonts/OpenSans/OpenSans.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["300", "400", "600", "700", "800"]
+        }
+    },{
+        "name" : "SCDream",
+        "path" : "/fonts/SCDream/SCDream.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "200", "300", "400", "500", "600", "700", "800", "900"]
+        }
+    },{
+        "name" : "SHMyungjo",
+        "path" : "/fonts/SHMyungjo/SHMyungjo.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100", "400"]
+        }
+    },{
+        "name" : "TmonMonsori",
+        "path" : "/fonts/TmonMonsori/TmonMonsori.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    },{
+        "name" : "Roboto",
+        "path" : "/fonts/Roboto/Roboto.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["100","300", "400", "500", "700", "900"]
+        }
+    },{
+        "name" : "Vivaldi",
+        "path" : "/fonts/Vivaldi/Vivaldi.css",
+        "weights" : {
+            "default" : "400",
+            "list" : ["400"]
+        }
+    }
+]

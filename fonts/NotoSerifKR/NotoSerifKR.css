@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Noto Serif KR (korean) //www.google.com/earlyaccess */
+
+/* �Ľ�Į ǥ��� */
+@font-face {
+  font-family: 'NotoSerifKR';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./NotoSerifKR-Thin.woff2') format('woff2'),
+       url('./NotoSerifKR-Thin.woff') format('woff'),
+       url('./NotoSerifKR-Thin.otf') format('opentype');
+}
+@font-face {
+  font-family: 'NotoSerifKR';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./NotoSerifKR-Light.woff2') format('woff2'),
+       url('./NotoSerifKR-Light.woff') format('woff'),
+       url('./NotoSerifKR-Light.otf') format('opentype');
+}
+@font-face {
+   font-family: 'NotoSerifKR';
+   font-style: normal;
+   font-weight: 400;
+   src: url('./NotoSerifKR-Regular.woff2') format('woff2'),
+        url('./NotoSerifKR-Regular.woff') format('woff'),
+        url('./NotoSerifKR-Regular.otf') format('opentype');
+ }
+@font-face {
+   font-family: 'NotoSerifKR';
+   font-style: normal;
+   font-weight: 500;
+   src: url('./NotoSerifKR-Medium.woff2') format('woff2'),
+        url('./NotoSerifKR-Medium.woff') format('woff'),
+        url('./NotoSerifKR-Medium.otf') format('opentype');
+ }
+@font-face {
+   font-family: 'NotoSerifKR';
+   font-style: normal;
+   font-weight: 700;
+   src: url('./NotoSerifKR-Bold.woff2') format('woff2'),
+        url('./NotoSerifKR-Bold.woff') format('woff'),
+        url('./NotoSerifKR-Bold.otf') format('opentype');
+ }
+@font-face {
+   font-family: 'NotoSerifKR';
+   font-style: normal;
+   font-weight: 900;
+   src: url('./NotoSerifKR-Black.woff2') format('woff2'),
+        url('./NotoSerifKR-Black.woff') format('woff'),
+        url('./NotoSerifKR-Black.otf') format('opentype');
+ } 

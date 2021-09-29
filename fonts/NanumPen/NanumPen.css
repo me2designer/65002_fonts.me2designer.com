@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'NanumPen';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./NanumPen.eot');
+    src: url('./NanumPen.eot') format('embedded-opentype'),
+         url('./NanumPen.woff2') format('woff2'), 
+         url('./NanumPen.woff') format('woff'),
+         url('./NanumPen.otf') format('opentype');
+}

@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'CenturyGothic';
+    font-style:normal;
+    font-weight:400;
+    src: url('./CenturyGothic-Regular.eot'); /* IE9+ Compat Modes */
+    src: url('./CenturyGothic-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./CenturyGothic-Regular.woff2') format('woff2'), /* Super modern browsers */
+         url('./CenturyGothic-Regular.woff') format('woff'), /* Modern browsers */
+		 url('./CenturyGothic-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('./CenturyGothic-Regular.svg#CenturyGothic') format('svg'); /* Legacy iOS */
+    src: local(※), url('./CenturyGothic-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'CenturyGothic';
+    font-style:italic;
+    font-weight:400;
+    src: url('./CenturyGothic-RegularItalic.eot');
+    src: url('./CenturyGothic-RegularItalic.eot?#iefix') format('embedded-opentype'),
+         url('./CenturyGothic-RegularItalic.woff2') format('woff2'),
+         url('./CenturyGothic-RegularItalic.woff') format('woff'),
+		 url('./CenturyGothic-RegularItalic.ttf') format('truetype'),
+		 url('./CenturyGothic-RegularItalic.svg#CenturyGothic') format('svg');
+    src: local(※), url('./CenturyGothic-RegularItalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'CenturyGothic';
+    font-style:normal;
+    font-weight:700;
+    src: url('./CenturyGothic-Bold.eot');
+    src: url('./CenturyGothic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./CenturyGothic-Bold.woff2') format('woff2'),
+         url('./CenturyGothic-Bold.woff') format('woff'),
+		 url('./CenturyGothic-Bold.ttf') format('truetype'),
+		 url('./CenturyGothic-Bold.svg#CenturyGothic') format('svg');
+    src: local(※), url('./CenturyGothic-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'CenturyGothic';
+    font-style:italic;
+    font-weight:700;
+    src: url('./CenturyGothic-BoldItalic.eot');
+    src: url('./CenturyGothic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('./CenturyGothic-BoldItalic.woff2') format('woff2'),
+         url('./CenturyGothic-BoldItalic.woff') format('woff'),
+		 url('./CenturyGothic-BoldItalic.ttf') format('truetype'),
+		 url('./CenturyGothic-BoldItalic.svg#CenturyGothic') format('svg');
+    src: local(※), url('./CenturyGothic-BoldItalic.woff') format('woff');
+}

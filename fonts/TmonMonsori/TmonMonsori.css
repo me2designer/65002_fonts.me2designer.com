@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'TmonMonsori';
+    font-style:normal;
+    font-weight:400;
+    src: url('./TmonMonsori-Black.eot'); /* IE9+ Compat Modes */
+    src: url('./TmonMonsori-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./TmonMonsori-Black.woff2') format('woff2'), /* Super modern browsers */
+         url('./TmonMonsori-Black.woff') format('woff'), /* Modern browsers */
+		 url('./TmonMonsori-Black.ttf') format('truetype'); /* Safari, Android, iOS */
+		 /*url('./TmonMonsori-Black.svg#TmonMonsori') format('svg');  Legacy iOS */
+    src: local(※), url('./TmonMonsori-Black.woff') format('woff');
+}

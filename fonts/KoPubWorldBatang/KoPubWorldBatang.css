@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'KoPubWorldBatang';
+    font-style:normal;
+    font-weight:300;
+    src: url('./KoPubWorldBatang-Light.eot');
+    src: url('./KoPubWorldBatang-Light.eot?#iefix') format('embedded-opentype'),
+         /* url('./KoPubWorldBatang-Light.woff2') format('woff2'), */
+         url('./KoPubWorldBatang-Light.woff') format('woff');
+		 /* url('./KoPubWorldBatang-Light.ttf') format('truetype');
+		 url('./KoPubWorldBatang-Light.svg#KoPubWorldBatang') format('svg'); */
+    src: local(※), url('./KoPubWorldBatang-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'KoPubWorldBatang';
+    font-style:normal;
+    font-weight:400;
+    src: url('./KoPubWorldBatang-Medium.eot');
+    src: url('./KoPubWorldBatang-Medium.eot?#iefix') format('embedded-opentype'),
+         /* url('./KoPubWorldBatang-Medium.woff2') format('woff2'), */
+         url('./KoPubWorldBatang-Medium.woff') format('woff');
+		 /*url('./KoPubWorldBatang-Medium.ttf') format('truetype');
+		 url('./KoPubWorldBatang-Medium.svg#KoPubWorldBatang') format('svg'); */
+    src: local(※), url('./KoPubWorldBatang-Medium.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'KoPubWorldBatang';
+    font-style:normal;
+    font-weight:700;
+    src: url('./KoPubWorldBatang-Bold.eot');
+    src: url('./KoPubWorldBatang-Bold.eot?#iefix') format('embedded-opentype'),
+         /* url('./KoPubWorldBatang-Bold.woff2') format('woff2'), */
+         url('./KoPubWorldBatang-Bold.woff') format('woff');
+		 /*url('./KoPubWorldBatang-Bold.ttf') format('truetype');
+		 url('./KoPubWorldBatang-Bold.svg#KoPubWorldBatang') format('svg'); */
+    src: local(※), url('./KoPubWorldBatang-Bold.woff') format('woff');
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FONTS</title>
+
+    <!-- FILES -->
+    <script type="text/javascript" src="//public.peoplelife.co.kr/js/server.js"></script>
+    <script type="text/javascript" src="/js/files.js"></script>
+
+</head>
+<body>
+    <div id="wrap" data-target-device="pc" data-grid-width="1280">
+        <div class="inner">
+            <div class="top">
+                <div class="color">
+                    <input type="text" placeholder="폰트컬러 (예:#000000)">
+                </div>
+                <select class="family"><!-- font-family : 글자순으로 삽입요망 -->
+                    <option data-attr-value="name" data-text="name"></option>
+                </select>
+                <div class="size">
+                    <input type="text" placeholder="16">
+                    <select>
+                        <option value="px">px (pc전용)</option>
+                        <option value="vw">vw (mobile전용)</option>
+                    </select>
+                </div>
+                <select class="weight">
+                    <option></option>
+                </select>
+                <select class="style">
+                    <option>normal</option>
+                    <option>italic</option>
+                </select>
+                <div class="spacing">
+                    <input type="text" maxlength="10" placeholder="자간 (기본: 0)">
+                </div>
+            </div>
+            <div class="contents">
+                <canvas></canvas>
+                <textarea></textarea>
+            </div>
+            <div class="tail">
+                <button type="button">DOWNLOAD</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

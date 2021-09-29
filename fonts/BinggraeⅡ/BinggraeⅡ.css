@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'BinggraeⅡ';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./BinggraeⅡ-Regular.woff') format('woff');
+}
+          
+@font-face {
+  font-family: 'BinggraeⅡ';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./BinggraeⅡ-Bold.woff') format('woff');
+}
+          

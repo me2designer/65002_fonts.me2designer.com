@@ -1,0 +1,20 @@
+■ EOT(Embedded Open Type)
+- 마이크로소프트가 15년 전에 만든 것으로 @font-face를 처음 도입한 곳도 마이크로소프트입니다.
+- IE8 이하 버전은 @font-face를 사용할 때 .eot 파일만 인식합니다
+ 
+■  OTF(OpenType Font) / TTF(TrueType Font)
+- OTF/TTF 형식은 쉽게 복제될 수 있어(불법으로) 대신 WOFF 형식이 만들어졌습니다.
+- Chrome 4+, Firefox 3.5, Opera 10+, Safari 3-5, Android, iOS 에서 지원
+
+■ WOFF(Web Open Font Format)
+- 모질라와 다른 조직들이 결합하여 웹에서 사용할 목적으로 개발했습니다. 
+- OTF/TTF 를 이용한 구조의 압축된 버전으로, 다른 글꼴 형식보다 빠르게 로드됩니다. 
+- 이 형식은 글꼴 파일 안에, metadata나 license 정보도 포함할 수 있습니다.
+- Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+  FF Mobile(Gecko) 5, Opera Mobile11 에서 지원
+ 
+■  SVG/SVGZ (Scalable Vector Graphics (Font) = *SVGZ는 SVG의 압축된 버전
+- 파일 크기를 훨씬 가볍게 해서 모바일 사용에 이상적으로 만들었습니다.
+- Chrome, Opera, Safari, Opera Mobile 10.0, Safari Mobile에서 지원
+- Firefox, IE 에서 지원하지 않음.
+
+출처: https://aboooks.tistory.com/153 [지구별 안내서]

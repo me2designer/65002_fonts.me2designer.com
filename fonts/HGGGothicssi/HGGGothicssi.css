@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:100;
+    src: url('./HGGGothicssi00g.eot');
+    src: url('./HGGGothicssi00g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi00g.woff2') format('woff2'),
+         url('./HGGGothicssi00g.woff') format('woff');
+    
+}
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:200;
+    src: url('./HGGGothicssi20g.eot');
+    src: url('./HGGGothicssi20g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi20g.woff2') format('woff2'),
+         url('./HGGGothicssi20g.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:400;
+    src: url('./HGGGothicssi40g.eot');
+    src: url('./HGGGothicssi40g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi40g.woff2') format('woff2'),
+         url('./HGGGothicssi40g.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:600;
+    src: url('./HGGGothicssi60g.eot');
+    src: url('./HGGGothicssi60g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi60g.woff2') format('woff2'),
+         url('./HGGGothicssi60g.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:800;
+    src: url('./HGGGothicssi80g.eot');
+    src: url('./HGGGothicssi80g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi80g.woff2') format('woff2'),
+         url('./HGGGothicssi80g.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'HGGGothicssi';
+    font-style:normal;
+    font-weight:900;
+    src: url('./HGGGothicssi99g.eot');
+    src: url('./HGGGothicssi99g.eot?#iefix') format('embedded-opentype'),
+         url('./HGGGothicssi99g.woff2') format('woff2'),
+         url('./HGGGothicssi99g.woff') format('woff');
+}

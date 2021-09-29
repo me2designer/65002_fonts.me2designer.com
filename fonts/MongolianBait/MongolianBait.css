@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'MongolianBait';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./MongolianBait.woff') format('woff');
+}
+          
