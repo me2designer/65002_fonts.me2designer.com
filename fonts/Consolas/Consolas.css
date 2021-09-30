@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'Consolas';
+    font-style:normal;
+    font-weight:400;    
+    src: url('./Consolas-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Consolas';
+    font-style:italic;
+    font-weight:400;    
+    src: url('./Consolas-RegularItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Consolas';
+    font-style:normal;
+    font-weight:700;
+    src: url('./Consolas-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Consolas';
+    font-style:italic;
+    font-weight:700;
+    src: url('./Consolas-BoldItalic.woff') format('woff');
+}
