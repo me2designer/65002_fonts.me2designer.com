@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'PerpetuaTitlingMT';
+    font-style:normal;
+    font-weight:300;    
+    src: url('./PerpetuaTitlingMT-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PerpetuaTitlingMT';
+    font-style:normal;
+    font-weight:700;
+    src: url('./PerpetuaTitlingMT-Bold.woff') format('woff');
+}
+
