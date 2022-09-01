@@ -1,0 +1,122 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 200;
+  font-style: normal;
+  src: url('./Jost-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 200;
+  font-style: italic;
+  src: url('./Jost-ThinItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 250;
+  font-style: normal;
+  src: url('./Jost-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 250;
+  font-style: italic;
+  src: url('./Jost-ExtraLightItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./Jost-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 300;
+  font-style: italic;
+  src: url('./Jost-LightItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./Jost-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./Jost-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 500;
+  font-style: italic;
+  src: url('./Jost-MediumItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./Jost-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 600;
+  font-style: italic;
+  src: url('./Jost-SemiBoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./Jost-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 700;
+  font-style: italic;
+  src: url('./Jost-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 800;
+  font-style: normal;
+  src: url('./Jost-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 800;
+  font-style: italic;
+  src: url('./Jost-ExtraBoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 900;
+  font-style: normal;
+  src: url('./Jost-Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-weight: 900;
+  font-style: italic;
+  src: url('./Jost-BlackItalic.woff') format('woff');
+}
+
